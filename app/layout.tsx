@@ -4,9 +4,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'QR Code Generator',
+  description: 'A modern QR code generator tool that helps you create custom QR codes easily',
 }
 
 export default function RootLayout({
